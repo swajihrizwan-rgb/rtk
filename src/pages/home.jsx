@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 function Home() {
   return (
     <div>
-      <h1>Welcome to My App</h1>
+      <h1>Welcome ssssto My App</h1>
 
       <p>This is our Home Screen.</p>
 
